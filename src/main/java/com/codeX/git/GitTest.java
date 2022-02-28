@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hot-fix 紧急修改");
         System.out.println("紧急修改");
         System.out.println("紧急push");
+        System.out.println("pull test");
     }
 }
